@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/ad_cat1" android:id="@+id/adsCat">
+        <menu>
+            <item
+                android:title="@string/ad_my_ads"
+                android:id="@+id/id_my_ads"
+                />
+            <item
+                android:title="@string/in_search_of_job"
+                android:id="@+id/id_cars"
+                />
+            <item
+                android:title="@string/in_search_employee"
+                android:id="@+id/id_pc"
+                />
+            <item
+                android:title="@string/looking_help"
+                android:id="@+id/id_smart"
+                />
+            <item
+                android:title="@string/typing_command"
+                android:id="@+id/id_apps"
+                />
+        </menu>
+    </item>
+
+    <item android:title="@string/ad_cat2" android:id="@+id/accCat">
+        <menu>
+            <item
+                android:title="@string/ac_sigh_in"
+                android:id="@+id/sign_in"
+                />
+            <item
+                android:title="@string/ac_sigh_up"
+                android:id="@+id/sign_up"
+                />
+            <item
+                android:title="@string/ac_sign_out"
+                android:id="@+id/out"
+                />
+        </menu>
+    </item>
+</menu>

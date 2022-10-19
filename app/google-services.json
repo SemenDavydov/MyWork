@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "284906114775",
+    "firebase_url": "https://mywork-d56b2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mywork-d56b2",
+    "storage_bucket": "mywork-d56b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284906114775:android:22438eaab9e9ebca7bea92",
+        "android_client_info": {
+          "package_name": "com.simba_studio.mywork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284906114775-khl7lnrosdft7fshldkb8kdtef2ith0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simba_studio.mywork",
+            "certificate_hash": "5a980c5079c3e6ad8c72ce7ca0dda2edfe9ed9db"
+          }
+        },
+        {
+          "client_id": "284906114775-l966nefnaejmlplhohnbvdnpr7f5ffen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simba_studio.mywork",
+            "certificate_hash": "bdd8745332ea0dca42fd46bb0c883f7a8f89e0db"
+          }
+        },
+        {
+          "client_id": "284906114775-p1o327bt600fufrn657u2u57r666q68e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVKnPOFNy75h1oDi4QXHW0IQPAe4wU7NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284906114775-p1o327bt600fufrn657u2u57r666q68e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource">
+    <item
+        android:title="New add"
+        android:icon="@drawable/ic_add_new"
+        android:id="@+id/id_new_ad"
+        android:orderInCategory="4"
+        />
+
+    <item
+        android:title="My ads"
+        android:icon="@drawable/ic_my_ads"
+        android:id="@+id/id_my_ads"
+        android:orderInCategory="3"
+        />
+
+    <item
+        android:title="Favs"
+        android:icon="@drawable/fav_normal"
+        android:iconTint="@color/blue_main"
+        android:id="@+id/id_favs"
+        android:orderInCategory="2"
+        />
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:iconTint="@color/blue_main"
+        android:id="@+id/id_home"
+        android:orderInCategory="1"
+        />
+</menu>

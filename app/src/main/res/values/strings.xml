@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Моя работа</string>
+
+    <!-- Все названия для выдвижного меню -->
+    <string name="ad_cat1">Объявления</string>
+    <string name="ad_my_ads">Мои объявления</string>
+    <string name="ad_my_fav">Избранные</string>
+    <string name="def">Разное</string>
+    <string name="in_search_of_job">В поиске работы</string>
+    <string name="in_search_employee">В поиске работника</string>
+    <string name="typing_command">Набираю команду</string>
+    <string name="looking_help">Ищу помошинка</string>
+    <string name="ad_cat2">Аккаунт</string>
+    <string name="ac_sigh_up">Регистрация</string>
+    <string name="ac_sigh_in">Вход</string>
+    <string name="ac_sign_out">Выход</string>
+    <string name="open">Открыть</string>
+    <string name="close">Закрыть</string>
+    <string name="not_reg">Войдите или зарегистрируйтесь!</string>
+
+    <!-- Термины для меню регистрации -->
+    <string name="your_email">Введите Ваш E-mail</string>
+    <string name="dialog_reset_email_message">Для восстановления пароля пожалуйста введите Ваш email адресс</string>
+    <string name="email_reset_password_was_sent">На Вашу почту было отправлено письмо со ссылкой для восстановления пароля, для восстановления пароля перейдите в Вашу почту перейдите по ссылке и следуйте инструкциям!</string>
+    <string name="your_password">Введите Ваш пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="sigh_in">Вход</string>
+    <string name="sigh_up_action">Зарегистрироваться</string>
+    <string name="sigh_in_action">Войти</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="sign_up_error">Не удалось зарегистрироваться</string>
+    <string name="sign_in_error">Не удалось войти</string>
+    <string name="gost">Гость</string>
+    <string name="send_verification_email_error">Не удалось отправить email для подтверждения</string>
+    <string name="send_verification_done">На Вашу почту была отправлена ссылка для подтверждения вашего аккаунта,
+        пожалуйста подтвердите Ваш аккаунт!</string>
+
+    <!-- Термины для соединения Аккаунтов с ГУГЛ -->
+    <string name="link_done">Аккаунты синхронизированы</string>
+    <string name="enter_to_g">У Вас уже есть аккаунт с этим Email дресом, пофторите аутентификацию с помощью Google для того чтобы синхронизировать Ваш аккаунт</string>
+
+    <!-- Термины для поисков городов -->
+    <string name="select_works">*Выберите направление деятельности</string>
+    <string name="select_profile">*Выберите профессию</string>
+    <string name="profile">Профессия</string>
+    <string name="works_type">Направление деятельности</string>
+    <string name="alternativa_communication_method">*Альтернативный способ связи</string>
+    <string name="telephone">Телефон</string>
+    <string name="tel_number">*Введите номер телефона</string>
+    <string name="category">Категория</string>
+    <string name="select_category">*Выберите категорию</string>
+    <string name="title">Заголовок</string>
+    <string name="price">Оплата (руб.)</string>
+    <string name="price_desc">Заработная плата (руб.):</string>
+    <string name="price_hint">*Обозначте желаемый уровень оплаты (руб.)</string>
+    <string name="title_hint">*Обозначте заголовок</string>
+    <string name="description">Описание</string>
+    <string name="description_hint">*Описание</string>
+    <string name="ready_for_buisiness_trips">Готов к командировкам</string>
+    <string name="buisiness_trips">Возможные командировки</string>
+    <string name="publish">Создать объявление</string>
+</resources>

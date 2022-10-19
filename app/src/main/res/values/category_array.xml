@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+
+        <item>В поиске работы</item>
+        <item>В поиске работника</item>
+        <item>Набираю команду</item>
+        <item>Ищу помошинка</item>
+    </string-array>
+</resources>
